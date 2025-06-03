@@ -38,7 +38,7 @@ This project provides an MCP (Modular Command Platform) server for weather infor
    ```
 2. Run the server:
    ```bash
-   uv run weather.py
+   uv run employee.py
    ```
 
 The server will listen for MCP requests via stdio.
